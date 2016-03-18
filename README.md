@@ -1,5 +1,7 @@
 # Mobile Exploration
 
+(I want to note this was written before Ionic2 and Angular2 which have made the performance issues a thing of the past. Also I was basing my Ionic Android performance ratings solely on emulators - major mistake, performs much better on a physical device)
+
 This project contains a few very simple applications so that I could get a little familiarity with the different options available in mobile development.
 
 Included is an Android and iOS app written in react native, the ionic framework, and 100% native code. I found some pros and cons in the development experience for each of the options and am going to discuss those here.
